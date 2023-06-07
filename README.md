@@ -1,7 +1,7 @@
 # kmeans
 kmeans algorithm implemented whit usage example
 
-### this diagram show convergence of example in each class in each iteration(running the algorithem on a dataset of 0 to 9 digits)
+### this diagram show convergence of example in each class in each iteration(running the algorithem on a dataset 1-5 of digits)
 ![Screenshot_20230607_103108](https://github.com/mohamad-khorsandi/kmeans/assets/77699335/d2752979-4fe7-4466-bdfb-741e25606f3a)
 
 
