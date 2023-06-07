@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 4. run:
 ```
-python main.py
+python usage_example.py
 ```
