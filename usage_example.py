@@ -16,7 +16,7 @@ if __name__ == "__main__":
         data.append(tmp_smp)
     random.shuffle(data)
 
-    km =Kmeans(5, data, 15)
+    km = Kmeans(k=5, data=data, iteration=15)
 
     km.train()
     km.show_nearest(5)
